@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.paragraph {
+    color: hsl(220, 15%, 55%);
+}
+
+.image {
+    border-radius: 2%;
+    max-width: 100%
+}
